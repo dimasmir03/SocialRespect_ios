@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialRespect_Ios", "SocialRespect_Ios.csproj", "{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Release|iPhone.Build.0 = Release|iPhone
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Release|iPhone.Deploy.0 = Release|iPhone
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FB8D8AF0-08A0-4D94-BAF3-C61711B5706E}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D576676-F36C-43FB-8477-00B91FD3FB75}
+	EndGlobalSection
+EndGlobal
